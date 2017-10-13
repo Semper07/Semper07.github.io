@@ -41,12 +41,12 @@ h2.titulo{
   font-family: cursive;
   font-style: italic;
   letter-spacing: 2px;
-  font-size: 1.3em;
+  font-size: 26px;
 }
 .sobre-mi{
   display: block;
   position: static;
-  margin-top: 60px;
+  margin-top: 56px;
   margin-bottom: 15px;
 }
 h3{
@@ -64,7 +64,7 @@ h3{
 }
 h4{
   padding-bottom: 15px;
-  font-size: 37px;
+  font-size: 2em;
   font-style: italic;
   font-weight: bold;
 }
