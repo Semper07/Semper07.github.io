@@ -38,7 +38,7 @@ h2.titulo{
   color: white;
   position: relative;
   top: 3px;
-  font-family: sans-serif;
+  font-family: cursive;
   font-style: italic;
   letter-spacing: 2px;
   font-size: 1.3em;
@@ -52,19 +52,19 @@ h2.titulo{
 h3{
   color: white;
   text-align: center;
-  font-size: 2.5em;
-  font-family: cursive;
+  font-size: 2.4em;
+  font-family: sans-serif;
   font-style: italic;
   letter-spacing: 3px;
   background-color: #03A9F4;
   width: 50%;
   margin: auto;
   border-radius: 16px;
-  padding: 2px;
+  padding: 3px;
 }
 h4{
   padding-bottom: 15px;
-  font-size: 39px;
+  font-size: 37px;
   font-style: italic;
   font-weight: bold;
 }
@@ -86,7 +86,7 @@ h4 span{
   padding-bottom: 7px;
 }
 p{
-  font-size: 29px;
+  font-size: 30px;
   line-height: 37px;
   letter-spacing: 1px;
   font-family: sans-serif;
