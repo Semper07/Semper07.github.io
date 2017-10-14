@@ -110,7 +110,6 @@ h5{
 .background{
   background-image: url(../images/background.jpg);
   margin-bottom: 30px;
-  border-radius: 4px;
 }
 .contenido-segundo{
   padding-top: 20px;
@@ -120,7 +119,7 @@ h5{
 }
 .maquetador-foto{
   float: right;
-  width: 34%;
+  width: 39%;
   margin-left: 12px;
   border-radius: 3px;
 }
@@ -139,7 +138,7 @@ h5{
   background-color: inherit;
   border: none;
   color: white;
-  font-size: 15px;
+  font-size: 12px;
   margin-top: 1px;
   padding-bottom: 20px;
 }
