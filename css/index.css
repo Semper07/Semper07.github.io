@@ -3,7 +3,7 @@
   padding: 0;
 }
 body{
-  background-image: url(../images/body.jpg);
+  background-image: url(../images/body.png);
   background-repeat: repeat;
   background-attachment: fixed;
   min-width:400px;
@@ -118,8 +118,10 @@ h5{
   margin-bottom: 15px;
 }
 .background{
-  background-image: url(../images/background.jpg);
+  background-color: #03A9F4;
   width: 100%;
+  border-bottom: solid 4px #0087e2;
+  border-top: solid 4px #0087e2;
 }
 .contenido-segundo{
   padding-top: 20px;
