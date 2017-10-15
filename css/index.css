@@ -13,8 +13,8 @@ body{
 header{
   background-color: #03A9F4;
   background-size: 100% 100%;
-  border-bottom: solid 4px #0087e2;
-  border-top: solid 4px #0087e2;
+  border-bottom: outset 4px #0087e2;
+  border-top: outset 4px #0087e2;
 }
 .titulo{
   text-align: center;
@@ -74,6 +74,7 @@ h3{
   border-radius: 7px;
   float: left;
   margin-right: 12px;
+  margin-top: 5px;
 }
 h4{
   font-family: 'Open Sans', sans-serif;
@@ -269,9 +270,14 @@ footer{
   .background{
     max-width: 1180px;
     margin: auto;
+    border-bottom: outset 5px #0087e2;
+    border-top: outset 5px #0087e2;
   }
   header{
     margin-top: 40px;
+  }
+  .titulo{
+    padding: 10px;
   }
   h1{
     font-size: 45px;
